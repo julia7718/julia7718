@@ -1,4 +1,5 @@
 ## Hi there 👋
+## My name is Julia and I'm currently studying AI and learning how to work with GitHub!
 
 <!--
 **julia7718/julia7718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
